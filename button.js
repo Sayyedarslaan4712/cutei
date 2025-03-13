@@ -4,8 +4,8 @@ var textList = [
   "What if I asked really nicely?",
   "Pretty please?",
   "I'll give you a cookie?",
-  "I'll give you a hug?",
-  "I'll give you a kiss?",
+  "I'll give you a love?",
+  "I'll give you a ....?",
 ];
 
 var currentIndex = 0;

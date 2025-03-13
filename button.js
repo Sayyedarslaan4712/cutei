@@ -30,7 +30,7 @@ function noButtonClick() {
 function yesButtonClick() {
   // Update the h2 text when the "Yes" button is clicked
   var h2Element = document.querySelector("h2");
-  h2Element.textContent = "I'll always be there for you i love you shobu❤️";
+  h2Element.textContent = "I'll always be there for you Manha❤️";
 
   // Hide the buttons
   var buttons = document.querySelectorAll(".button");
@@ -40,6 +40,6 @@ function yesButtonClick() {
 
   // Show the image
   var imgElement = document.querySelector("img");
-  imgElement.src = "img/1000085491_3652x3045.png";
+  imgElement.src = "img/https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY200eGJraHNmN2tzZDBhZDFxODA1OW94NWkzZXZlaXM0d2VtajMyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6Uqa3vLCikV1yNRmdU/giphy.gif";
   imgElement.style.visibility = "visible"; // Change visibility to "visible"
 }

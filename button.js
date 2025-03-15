@@ -40,6 +40,6 @@ function yesButtonClick() {
 
   // Show the image
   var imgElement = document.querySelector("img");
-  imgElement.src = "img/https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY200eGJraHNmN2tzZDBhZDFxODA1OW94NWkzZXZlaXM0d2VtajMyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6Uqa3vLCikV1yNRmdU/giphy.gif";
+  imgElement.src = "./https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY200eGJraHNmN2tzZDBhZDFxODA1OW94NWkzZXZlaXM0d2VtajMyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6Uqa3vLCikV1yNRmdU/giphy.gif";
   imgElement.style.visibility = "visible"; // Change visibility to "visible"
 }
